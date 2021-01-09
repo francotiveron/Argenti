@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CsPoker": {
+      "commandName": "Project",
+      "commandLineArgs": "< C:\\Temp\\Argenti\\Argenti\\poker-hands.txt"
+    }
+  }
+}

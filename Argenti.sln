@@ -3,13 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FsPoker", "FsPoker\FsPoker.fsproj", "{CE41EA75-FE19-499D-983A-36430742544D}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FsPoker", "FsPoker\FsPoker.fsproj", "{CE41EA75-FE19-499D-983A-36430742544D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C531C0AF-FF4A-44FB-B254-E83320555802}"
 	ProjectSection(SolutionItems) = preProject
 		poker-exercise.pdf = poker-exercise.pdf
 		poker-hands.txt = poker-hands.txt
+		README.MD = README.MD
 	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsPoker", "CsPoker\CsPoker.csproj", "{C25B6BC9-EAEE-4CBB-8AE9-F2AC814628D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +24,10 @@ Global
 		{CE41EA75-FE19-499D-983A-36430742544D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE41EA75-FE19-499D-983A-36430742544D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE41EA75-FE19-499D-983A-36430742544D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C25B6BC9-EAEE-4CBB-8AE9-F2AC814628D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25B6BC9-EAEE-4CBB-8AE9-F2AC814628D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25B6BC9-EAEE-4CBB-8AE9-F2AC814628D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25B6BC9-EAEE-4CBB-8AE9-F2AC814628D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
