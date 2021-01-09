@@ -81,6 +81,7 @@ let main _ =
         if String.IsNullOrWhiteSpace(line) then //EOF
             printfn "Player 1: %d" winners1
             printfn "Player 2: %d" winners2
+            Console.ReadLine() |> ignore
             0
         else
             match getHands line ||> calcWinner with

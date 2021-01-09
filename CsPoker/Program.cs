@@ -24,6 +24,7 @@ namespace CsPoker
 
             Console.WriteLine($"Player 1: {winners1}");
             Console.WriteLine($"Player 2: {winners2}");
+            Console.ReadLine();
         }
 
         static (Hand, Hand) GetHands(string line) {

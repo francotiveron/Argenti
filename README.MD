@@ -1,0 +1,20 @@
+# Poker Simulator
+
+This repo contains a Visual Studio Solution containing 2 different project with the same functionality: apply Poker rules to determine the winner between two players.
+
+Both projects are .NET 5.0 console applications developed in C# 9.0 and F# 5.0
+
+Tooling used:
+
+- Microsoft Visual Studio Enterprise 2019 Version 16.8.3
+- .NET 5.0 SDK
+
+All the necessary files to build and run the applications are in the solution, including the input file and the PDF problem assignment document:
+
+- Open the solution in Visual Studio
+- Select the application to execute (CsPoker or FsPoker)
+- Press F5 or Ctrl+F5 (on Windows)
+
+Output:
+
+![image-20210109193258195](C:\Users\FrancoTiveron\AppData\Roaming\Typora\typora-user-images\image-20210109193258195.png)
