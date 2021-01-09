@@ -1,8 +1,11 @@
 # Poker Simulator
 
-This repo contains a Visual Studio Solution containing 2 different project with the same functionality: apply Poker rules to determine the winner between two players.
+This repo contains a Visual Studio Solution containing 2 different projects with the same functionality: apply Poker rules to determine the winner between two players.
 
 Both projects are .NET 5.0 console applications developed in C# 9.0 and F# 5.0
+
+Please note that while I am a veteran in OOP (mainly C++ and C#), in the last 5 years I have been extensively developing my FP skills. I am an F# advocate.
+This is the reason why I have developed the problem in both languages.
 
 Tooling used:
 
