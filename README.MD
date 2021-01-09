@@ -15,6 +15,6 @@ All the necessary files to build and run the applications are in the solution, i
 - Select the application to execute (CsPoker or FsPoker)
 - Press F5 or Ctrl+F5 (on Windows)
 
-Output:
+Output image
 
-![image-20210109193258195](C:\Users\FrancoTiveron\AppData\Roaming\Typora\typora-user-images\image-20210109193258195.png)
+https://github.com/francotiveron/OktaPostImg/blob/master/image-20210109193258195.png	
